@@ -1,0 +1,11 @@
+Name: {{data.f_name_modal}}, {{data.l_name_modal}}
+Address: {{data.address_modal}}
+Zip: {{data.zip_modal}}
+Phone: {{data.phone_modal}}
+State: {{data.state_modal}}
+
+Held in: {{data.heldin_modal}}
+Last Address: {{data.last_address_modal}}
+Property ID: {{data.property_id_modal}}
+Reported By: {{data.reported_by_modal}}
+Amount: {{data.amount_modal}}
